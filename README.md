@@ -19,5 +19,5 @@ Este proyecto es una serie de ejercicios diseñados para aprender y practicar lo
 ### **Evaluación**
 
 <p align="left">
-  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/py_01_70.png" alt="libft logo" width="150"/>
+  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/py_01_70.png" alt="libft logo" width="100"/>
 </p>
