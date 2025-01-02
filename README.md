@@ -1,4 +1,5 @@
 # Piscine Python for Data Science - Starting
+
 <p align="justify"> 
 Este proyecto es una serie de ejercicios diseñados para aprender y practicar los fundamentos de Python, específicamente en el contexto de la ciencia de datos. Cada ejercicio está enfocado en conceptos clave como manipulación de datos, uso de librerías, creación de funciones, y la implementación de buenas prácticas de programación.
 </p>
@@ -15,8 +16,8 @@ Este proyecto es una serie de ejercicios diseñados para aprender y practicar lo
 | **07**        | Crear un programa que codifique un texto en código Morse usando un diccionario.                             |
 
 ---
+### **Evaluación**
 
-## Evaluación
-
-![Evaluación](https://github.com/svarelavila/svarelavila/blob/main/imagenes/py_01_70.png)
-
+<p align="left">
+  <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/py_01_70.png" alt="libft logo" width="150"/>
+</p>
