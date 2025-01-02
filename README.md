@@ -17,7 +17,7 @@ Este proyecto es una serie de ejercicios diseñados para aprender y practicar lo
 | **ex06**        | Reimplementar la función `filter` usando comprensiones de listas y crear un programa para filtrar palabras. |
 | **ex07**        | Crear un programa que codifique un texto en código Morse usando un diccionario.                             |
 
-### **Evaluación**
+### Evaluación
 
 <p align="left">
   <img src="https://github.com/svarelavila/svarelavila/blob/main/imagenes/py_01_70.png" alt="libft logo" width="100"/>
