@@ -4,6 +4,8 @@
 Este proyecto es una serie de ejercicios diseñados para aprender y practicar los fundamentos de Python, específicamente en el contexto de la ciencia de datos. Cada ejercicio está enfocado en conceptos clave como manipulación de datos, uso de librerías, creación de funciones, y la implementación de buenas prácticas de programación.
 </p>
 
+### Resumen de Ejercicios
+
 | **Ejercicio** | **Descripción**                                                                                             |
 |---------------|-------------------------------------------------------------------------------------------------------------|
 | **ex00**        | Crear un script Python básico para mostrar diferentes saludos en distintos formatos.                        |
