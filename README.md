@@ -6,16 +6,15 @@ Este proyecto es una serie de ejercicios diseñados para aprender y practicar lo
 
 | **Ejercicio** | **Descripción**                                                                                             |
 |---------------|-------------------------------------------------------------------------------------------------------------|
-| **00**        | Crear un script Python básico para mostrar diferentes saludos en distintos formatos.                        |
-| **01**        | Usar paquetes para formatear fechas y mostrar resultados en notación científica.                            |
-| **02**        | Implementar una función para identificar y mostrar tipos de objetos.                                        |
-| **03**        | Escribir una función que maneje y clasifique tipos de valores nulos.                                        |
-| **04**        | Crear un script que determine si un número es par o impar, con manejo de errores en los argumentos.         |
-| **05**        | Diseñar un programa autónomo que clasifique caracteres de un texto en diferentes categorías.                |
-| **06**        | Reimplementar la función `filter` usando comprensiones de listas y crear un programa para filtrar palabras. |
-| **07**        | Crear un programa que codifique un texto en código Morse usando un diccionario.                             |
+| **ex00**        | Crear un script Python básico para mostrar diferentes saludos en distintos formatos.                        |
+| **ex01**        | Usar paquetes para formatear fechas y mostrar resultados en notación científica.                            |
+| **ex02**        | Implementar una función para identificar y mostrar tipos de objetos.                                        |
+| **ex03**        | Escribir una función que maneje y clasifique tipos de valores nulos.                                        |
+| **ex04**        | Crear un script que determine si un número es par o impar, con manejo de errores en los argumentos.         |
+| **ex05**        | Diseñar un programa autónomo que clasifique caracteres de un texto en diferentes categorías.                |
+| **ex06**        | Reimplementar la función `filter` usando comprensiones de listas y crear un programa para filtrar palabras. |
+| **ex07**        | Crear un programa que codifique un texto en código Morse usando un diccionario.                             |
 
----
 ### **Evaluación**
 
 <p align="left">
